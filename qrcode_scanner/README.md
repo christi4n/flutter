@@ -3,7 +3,11 @@
 QR Code Scanner is a Flutter app to help you scan QR code. It is made with Flutter (visit https://flutter.io/) and it is just for educational purposes.
 
 
-<img src="http://i68.tinypic.com/2luwbnl.jpg">
+<img src="http://i66.tinypic.com/5ut8j.jpg">
+
+<img src="http://i64.tinypic.com/2uo1ezs.jpg">
+
+<img src="http://i67.tinypic.com/2z569kz.jpg">
 
 
 ### Android
