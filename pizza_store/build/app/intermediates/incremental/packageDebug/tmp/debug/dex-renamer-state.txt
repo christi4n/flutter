@@ -1,4 +1,0 @@
-#Tue Oct 23 11:50:49 CEST 2018
-base.0=/home/christian/Projets/Flutter/pizza_store/build/app/intermediates/transforms/dexMerger/debug/0
-path.0=classes.dex
-renamed.0=classes.dex
